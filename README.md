@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Data Science and Web Frameworks:**
+## Data Science and Web Frameworks:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
