@@ -2,7 +2,8 @@
 
 🚀 My name is Imran & I am a hard-working computer engineering student who excels in communication, leadership, and teamwork. Leading the sustainability club through multiple events has taught me how to handle myself in group situations. I am also a passionate coder with experience in various projects, including web development and developing machine learning models. I always seek ways to learn more and further specialize my skills.
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasir.imrun10@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-nasir-39931018a/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasir.imrun10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-nasir-39931018a/)
 
 # 💻 Tech Stack:
 
