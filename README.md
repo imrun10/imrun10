@@ -2,6 +2,8 @@
 
 🚀 My name is Imran & I am a hard-working computer engineering student who excels in communication, leadership, and teamwork. Leading the sustainability club through multiple events has taught me how to handle myself in group situations. I am also a passionate coder with experience in various projects, including web development and developing machine learning models. I always seek ways to learn more and further specialize my skills.
 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasir.imrun10@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-nasir-39931018a/)
+
 # 💻 Tech Stack:
 
 ## Programming Languages:
@@ -60,7 +62,7 @@
 ## IoT and Hardware:
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%23000000.svg?style=for-the-badge&logo=vhdl&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23202F3D.svg?style=for-the-badge)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
