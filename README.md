@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, fellow coders!
 
 🚀 My name is Imran & I am a hard-working computer engineering student who excels in communication, leadership, and teamwork. I am  a passionate coder with experience in various projects, including web development and developing machine learning models. I always seek ways to learn more and further specialize my skills.
 
