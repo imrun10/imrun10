@@ -21,10 +21,11 @@
 ## Game Development Frameworks:
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Data Science and Web Frameworks:
+## Python Libraries & Frameworks:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Java Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
