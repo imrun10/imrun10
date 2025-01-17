@@ -76,6 +76,7 @@
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
+[![](https://leetcode-stats.vercel.app/api?username=imrun10)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/imrun10/))<br/>
 ![](https://github-readme-stats.vercel.app/api?username=imrun10&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imrun10&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imrun10&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
