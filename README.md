@@ -75,6 +75,3 @@
 ![Assembly](https://img.shields.io/badge/Assembly-%23202F3D.svg?style=for-the-badge)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![Profile views](https://komarev.com/ghpvc/?username=imrun10&label=Profile%20views&color=0e75b6&style=flat)<br/>
-[![](https://leetcode-stats.vercel.app/api?username=imrun10)]([https://github.com/JeremyTsaii/leetcode-stats](https://leetcode.com/imrun10/))![](https://github-readme-stats.vercel.app/api?username=imrun10&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=imrun10&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=imrun10&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
